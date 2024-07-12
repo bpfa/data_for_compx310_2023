@@ -1,2 +1,2 @@
-# data_for_compx310_2023
-Datasets for the COMPX310 2023 lectures
+# data_for_compx310_2024
+Datasets for the COMPX310 2024 lectures
